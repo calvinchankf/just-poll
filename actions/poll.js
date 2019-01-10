@@ -3,8 +3,6 @@ import {
   POLL_INIT,
   POLL_SET_CUR_IDX,
   POLL_MUTATE_POLL,
-  POLL_INCREMENT,
-  POLL_DECREMENT
 } from '../constants';
 
 import { fetchPollData } from 'api'

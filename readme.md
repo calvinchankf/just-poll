@@ -13,7 +13,7 @@ yarn install
 Folder Structure
 ---
 ```
-/
+{root}/
 |- actions/         // redux actions
 |- api/             // APIs fetchers
 |- components/      // shared components
