@@ -6,7 +6,7 @@ yarn install
 ```
 Step 2: run the project and view it via http://localhost:3000/
 ```
-yarn install
+yarn dev
 ```
 
 
